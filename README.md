@@ -1,2 +1,3 @@
 # Movie_site
-This is movies searching website using the API
+
+Crafted an immersive movie website showcasing a vast collection of films, complete with interactive search and browsing features with the front-end libraries and also using API.
